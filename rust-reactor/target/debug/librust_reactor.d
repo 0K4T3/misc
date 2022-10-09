@@ -1,0 +1,1 @@
+/home/kate/Documents/github/0kate/Proof-Of-Concept/rust-reactor/target/debug/librust_reactor.rlib: /home/kate/Documents/github/0kate/Proof-Of-Concept/rust-reactor/src/lib.rs /home/kate/Documents/github/0kate/Proof-Of-Concept/rust-reactor/src/runtime.rs
