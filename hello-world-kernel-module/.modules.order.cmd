@@ -1,0 +1,1 @@
+cmd_/home/kate/src/hello-world-kernel-module/modules.order := {   echo /home/kate/src/hello-world-kernel-module/hello.ko; :; } | awk '!x[$$0]++' - > /home/kate/src/hello-world-kernel-module/modules.order
