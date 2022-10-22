@@ -1,0 +1,21 @@
+[package]
+name = "linux-pty"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nix = "0.25.0"
+
+[[bin]]
+name = "fd_misc"
+path = "src/fd_misc.rs"
+
+[[bin]]
+name = "pty_master"
+path = "src/pty_master.rs"
+
+[[bin]]
+name = "pt_operations"
+path = "src/pt_operations.rs"
