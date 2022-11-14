@@ -1,1 +1,0 @@
-cmd_/home/kate/src/hello-world-kernel-module/hello.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/kate/src/hello-world-kernel-module/hello.ko /home/kate/src/hello-world-kernel-module/hello.o /home/kate/src/hello-world-kernel-module/hello.mod.o;  true
